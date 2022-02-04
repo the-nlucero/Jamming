@@ -1,0 +1,15 @@
+*Side Notes
+*Assuming you've already created your React app within your command line (FIRST!)
+*Add the corresponding files to your project
+
+Step 1: Go to Spotify's Developer Website and Sign In
+https://developer.spotify.com/dashboard/login
+
+Step 2: Create an App with any name to obtain a client Id.
+
+Step 3: Click Edit Settings
+
+Step 4: Add a Redirect URI to: http://localhost:3000/ (once added save settings at the bottom)
+
+Step 5: Open Spotify.js and change clientId (at the top) to your own personal ID (make sure its formatted like: 'PasteClientCODE').
+
